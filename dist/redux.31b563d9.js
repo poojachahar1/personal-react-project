@@ -690,7 +690,7 @@ store.dispatch({
     type: ADD_CART_PRODUCT,
     payload: {
         productId: 1,
-        quantity: 4
+        quantity: 5
     }
 });
 store.dispatch({
